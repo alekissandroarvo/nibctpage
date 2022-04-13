@@ -1,0 +1,22 @@
+.navBar {
+  display: center;
+  padding: 5px;
+  color: white;
+  background-color: #ffa500;
+  font-weight: bold;
+  text-align: center;
+}
+.nibLogo {
+  position: absolute;
+  left: 15px; /* posiciona a 90px para a esquerda */
+  top: 25px; /* posiciona a 70px para baixo */
+  height: 70px;
+  width: 70px;
+}
+.p {
+  font-style: italic;
+  font-size: 18px;
+}
+.h1 {
+  font-size: 40px;
+}
